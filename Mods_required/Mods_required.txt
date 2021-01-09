@@ -1,0 +1,30 @@
+@509th Mods
+@ace
+@ACE Compat - RHS Armed Forces of the Russian Federation
+@ACE Compat - RHS United States Armed Forces
+@ACE Compat - RHS- GREF
+@ACEX
+@Breaching Charge
+@CBA_A3
+@cTab
+@CUP Terrains - Core
+@Enhanced Movement
+@Enhanced Smoke
+@FA-18-Super-Hornet-BETA
+@FHQ_Accessories
+@FIR AWS(AirWeaponSystem)
+@Gruppe Adler Trenches
+@H-60 pack - Development Version
+@Hatchet Framework - Development Version
+@ILBE Assault Pack - Rewrite
+@ITC Air Systems
+@ITC Land Systems
+@Kyklop's Electronic warfare
+@Kyklop's Electronic warfare TFAR compatibility
+@Project OPFOR
+@RHSAFRF
+@RHSGREF
+@RHSUSAF
+@Specialist Military Arms (SMA) Version 2.7.1
+@Task Force Arrowhead Radio (BETA)
+@USAF MOD Main Pack
